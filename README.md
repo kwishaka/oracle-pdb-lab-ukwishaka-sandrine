@@ -30,9 +30,10 @@ This repository contains coursework for Oracle Database Management covering:
     Create new PD
  ![Alt text](C:\Users\HP\OneDrive\Desktop\screenshot\assignment screenshot/to/<img width="678" height="359" alt="creation" src="https://github.com/user-attachments/assets/32f173e9-31c0-4401-95ab-501b64ab9094" />
 )
-Create & delete another PD
-![Alt text](C:\Users\HP\OneDrive\Desktop\screenshot\assignment screenshot/to/<img width="638" height="515" alt="newpdr" src="https://github.com/user-attachments/assets/33c6c31e-942a-4768-b530-f563b8c06865" />
-)
+
+             Create & delete another PD
+
+
 ![Alt text](C:\Users\HP\OneDrive\Desktop\screenshot\assignment screenshot/to/<img width="779" height="451" alt="pdsf after deletion" src="https://github.com/user-attachments/assets/0c182eb0-f1a4-47c6-93d6-4d55002c17d2" />
 )
 ![Alt text](C:\Users\HP\OneDrive\Desktop\screenshot\assignment screenshot/to/<img width="1349" height="649" alt="oracle enterprise manager" src="https://github.com/user-attachments/assets/fb963bc3-50e4-4782-9cc0-4b54640c0c71" />
