@@ -38,6 +38,8 @@ This repository contains coursework for Oracle Database Management covering:
 
 ![Alt text](C:\Users\HP\OneDrive\Desktop\screenshot\assignment screenshot/to/<img width="779" height="451" alt="pdsf after deletion" src="https://github.com/user-attachments/assets/0c182eb0-f1a4-47c6-93d6-4d55002c17d2" />
 )
+
+      oracle enterprisemanger
 ![Alt text](C:\Users\HP\OneDrive\Desktop\screenshot\assignment screenshot/to/<img width="1349" height="649" alt="oracle enterprise manager" src="https://github.com/user-attachments/assets/fb963bc3-50e4-4782-9cc0-4b54640c0c71" />
 
 )
