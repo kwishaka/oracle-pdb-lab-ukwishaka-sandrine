@@ -27,7 +27,7 @@ This repository contains coursework for Oracle Database Management covering:
 *Database Version:* Oracle 21c Express Edition  
 
 ---
-Create new PD
+    Create new PD
  ![Alt text](C:\Users\HP\OneDrive\Desktop\screenshot\assignment screenshot/to/<img width="678" height="359" alt="creation" src="https://github.com/user-attachments/assets/32f173e9-31c0-4401-95ab-501b64ab9094" />
 )
 Create & delete another PD
