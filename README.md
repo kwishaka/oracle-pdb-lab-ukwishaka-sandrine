@@ -32,7 +32,9 @@ This repository contains coursework for Oracle Database Management covering:
 )
 
              Create & delete another PD
+![Alt text](C:\Users\HP\OneDrive\Desktop\screenshot\assignment screenshot/to/<img width="638" height="515" alt="newpdr" src="https://github.com/user-attachments/assets/feeda0a5-038b-4beb-8187-c7c7fd1c3fb9" />
 
+)
 
 ![Alt text](C:\Users\HP\OneDrive\Desktop\screenshot\assignment screenshot/to/<img width="779" height="451" alt="pdsf after deletion" src="https://github.com/user-attachments/assets/0c182eb0-f1a4-47c6-93d6-4d55002c17d2" />
 )
