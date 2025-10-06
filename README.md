@@ -36,6 +36,8 @@ This repository contains coursework for Oracle Database Management covering:
 
 )
 
+              after deleting
+
 ![Alt text](C:\Users\HP\OneDrive\Desktop\screenshot\assignment screenshot/to/<img width="779" height="451" alt="pdsf after deletion" src="https://github.com/user-attachments/assets/0c182eb0-f1a4-47c6-93d6-4d55002c17d2" />
 )
 
